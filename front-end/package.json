@@ -18,7 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "dev": "react-scripts start",
-    "build": "NODE_OPTIONS='--no-experimental-webstorage' BUILD_PATH='dist' react-scripts build",
+    "build": "NODE_OPTIONS='--no-experimental-webstorage' BUILD_PATH='build' react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
